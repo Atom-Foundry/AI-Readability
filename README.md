@@ -51,4 +51,15 @@ AI Readability™ is the foundation of AI Commerce Intelligence™.
 
 https://atomfoundry.dev/framework/ai-readability
 
+## Position Within The AI Commerce Graph™
+
+AI Readability™ is one layer of the AI Commerce Graph™.
+
+The AI Commerce Graph™ maps how AI systems discover, understand, trust, and recommend businesses.
+
+AI Readability™ measures whether AI systems can access, parse, and interpret commerce content.
+
+Learn more:
+https://github.com/Atom-Foundry/AI-Commerce-Graph
+
 Created by Atom Foundry.
